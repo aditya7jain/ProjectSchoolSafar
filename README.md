@@ -81,8 +81,7 @@ pip install -r requirements.txt
 
 Now you can run the project with this command
 python manage.py runserver
-
-# Project Screenshots
+ 
  
   
   
